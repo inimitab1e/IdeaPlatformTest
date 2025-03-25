@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IdeaPlatformTest</string>
+    <string name="toolbar_title">Список товаров</string>
+    <string name="search_bar_hint">Поиск товаров</string>
+    <string name="in_storage_title">На складе</string>
+    <string name="date_title">Дата добавления</string>
+    <string name="amount_title">Количество товара</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Принять</string>
+</resources>
